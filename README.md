@@ -9,7 +9,12 @@ Proiectul este construit de la zero folosind structuri de date clasice pentru a 
 2. **Turneul (Stive & Cozi):** Simulează meciurile 1 la 1. Echipele sunt extrase din coadă, joacă meciul, iar câștigătorii primesc un punct și trec în runda următoare folosind o stivă temporară.
 3. **Clasamentul (BST):** Ultimele 8 echipe rămase în turneu sunt salvate într-un arbore binar de căutare pentru a afișa instantaneu clasamentul final, ordonat descrescător.
 
-## Comenzi rapide (via Makefile)
+
+## Structura codului sursă
+
+Codul sursă (alcătuit din funcții și structuri esențiale rezolvării) pentru fiecare etapă din cele 3 de mai sus se regăsește în fișierele corespunzătoare: `task1.c` + `task1.h`, `task2.c` + `task2.h`, `task3.c` + `task3.h`.
+
+## Comenzi rapide (Makefile)
 
 * **Compilare:** `make build`
 * **Rulare teste (Checker automat):** `make check`
