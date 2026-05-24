@@ -1,2 +1,0 @@
-lanParty
-out/
